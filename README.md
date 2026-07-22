@@ -1,7 +1,7 @@
 # Online Ticket Booking System (C)
 
-> **Academic stage:** **2nd year** (CSE) · **Created:** July 2024  
-> **Learning focus:** **DSA** · arrays/structs for records · search & update flows · menu-driven console design · modular C functions
+> **Created:** (2024-07-22)  
+> **Latest update:** (2026-07-22) — 2nd-year DSA learning project documentation
 
 ## About
 
